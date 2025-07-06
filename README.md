@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Monty-Bounty
 - 👀 I’m interested in coding, philosophy
-- 🌱 I’m currently learning Python, AI, LLM, Prompt Engineering
+- 🌱 I’m currently learning Python, C++, AI, LLM, Prompt Engineering
 - 💞️ I’m looking to collaborate on anything that average 18-year-old student can colaborate
-- 📫 How to reach me Mail: moya73pochta010@gmail.com Telegram: @jiyuu_no_tsubasa
+- 📫 How to reach me Mail: ichooseacupofcoffee@proton.me Telegram: @jiyuu_no_tsubasa
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't drink alcohol or do drugs. I like my suffering RAW. Thanks.
 
