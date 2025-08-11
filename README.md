@@ -10,7 +10,7 @@ Hi, I’m @Monty-Bounty<br> Interested in coding, philosophy<br> Currently learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monty-Bounty&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Monty-Bounty/count.svg)
 <!-- [![](https://visitcount.itsvg.in/api?id=Monty-Bounty&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
