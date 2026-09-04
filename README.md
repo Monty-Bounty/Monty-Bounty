@@ -1,5 +1,5 @@
 # About Me:
-Interested in coding, philosophy<br>Currently learning Python, C++, Linux, AI, LLM, Prompt Engineering<br>I’m looking to collaborate on anything that average 18-year-old student can collaborate<br>How to reach me:<br>    - Mail: ichooseacupofcoffee@proton.me<br>    - Telegram: @jiyuu_no_tsubasa<br> Time zone: UTC+3<br><!-- Pronouns: He/Him<br>Fun fact: I don't drink alcohol or do drugs. I like my suffering RAW. Thanks. -->
+Interested in coding, philosophy<br>Currently learning Python, C++, Linux, AI, LLM, Prompt Engineering<br>I’m looking to collaborate on anything that average 19-year-old student can collaborate<br>How to reach me:<br>    - Mail: ichooseacupofcoffee@proton.me<br>    - Telegram: @jiyuu_no_tsubasa<br> Time zone: UTC+3<br><!-- Pronouns: He/Him<br>Fun fact: I don't drink alcohol or do drugs. I like my suffering RAW. Thanks. -->
 
 
 # Tech Stack:
